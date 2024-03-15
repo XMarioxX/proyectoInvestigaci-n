@@ -1,0 +1,31 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{background}
+
+\backgroundsetup{
+    scale=1,
+    color=black,
+    opacity=1,
+    angle=0,
+    position=current page.south,
+    vshift=15cm, % Cambié el valor a positivo para desplazar hacia arriba
+    contents={%
+        \includegraphics[width=\paperwidth,height=\paperheight]{imagenes/Fondo.png}
+    }
+}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+\begin{center}
+    \vspace*{5cm}
+    \huge \textbf{Header 1} \\
+    \LARGE Header 2
+\end{center}
+
+\clearpage
+
+\end{document}
