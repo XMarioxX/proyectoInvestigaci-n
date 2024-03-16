@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  13 MAR 2024 22:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  15 MAR 2024 22:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Taller de Investigación/Proyecto de Investigación/Protocolo.tex"
-(d:/Taller de Investigación/Proyecto de Investigación/Protocolo.tex
+**"d:/Taller de Investigación/GihuPI/proyectoInvestigacion/Protocolo.tex"
+(d:/Taller de Investigación/GihuPI/proyectoInvestigacion/Protocolo.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (C:\Users\mayit\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -367,7 +367,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 <imagenes/Fondo.png, id=4, 613.84889pt x 794.07777pt>
 File: imagenes/Fondo.png Graphic file (type png)
 <use imagenes/Fondo.png>
-Package pdftex.def Info: imagenes/Fondo.png  used on input line 29.
+Package pdftex.def Info: imagenes/Fondo.png  used on input line 32.
 (pdftex.def)             Requested size: 614.32509pt x 794.97244pt.
 [1
 
@@ -379,14 +379,14 @@ L3 programming layer <2024-01-22>
  ) 
 Here is how much of TeX's memory you used:
  12729 strings out of 474542
- 266731 string characters out of 5744446
+ 266745 string characters out of 5744446
  1923978 words of memory out of 5000000
  34753 multiletter control sequences out of 15000+600000
  558974 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,107p,506b,744s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,107p,508b,744s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/mayit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/mayit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Protocolo.pdf (1 page, 84808 bytes).
+Output written on Protocolo.pdf (1 page, 84805 bytes).
 PDF statistics:
  22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
