@@ -1,32 +1,56 @@
 \documentclass{article}
 \usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel} % Cambiamos el idioma a español
 \usepackage{graphicx}
-\usepackage[margin=1in]{geometry}
-\usepackage{background}
+\usepackage{geometry}
 
-\backgroundsetup{
-    scale=1,
-    color=black,
-    opacity=1,
-    angle=0,
-    position=current page.south,
-    vshift=15cm, % Cambié el valor a positivo para desplazar hacia arriba
-    contents={%
-        \includegraphics[width=\paperwidth,height=\paperheight]{imagenes/Fondo.png}
-    }
-}
+\title{Mi Documento}
+\author{Tú Nombre}
+\date{\today}
 
 \begin{document}
 
-\thispagestyle{empty}
-
-\begin{center}
+% Portada
+\begin{titlepage}
+    \centering
     \vspace*{5cm}
-    \huge \textbf{Header 1} 
-    \LARGE Header 2
-\end{center}
+    {\Huge\textbf{\title}\par}
+    \vspace{1cm}
+    {\Large\textit{\author}\par}
+    \vspace{1cm}
+    {\large\textit{\date}\par}
+    \vfill
+    \includegraphics[width=0.3\textwidth]{example-image} 
+    \vfill
+\end{titlepage}
 
+\selectlanguage{spanish}
 
+% Índice
+\tableofcontents
+\clearpage
 
+% Introducción
+\section{Introducción}
+
+\subsection{Planteamiento General del Problema de Investigación }
+
+\subsection{Definición del Problema General de Investigación}
+
+\subsection{Identificación y delimitación de un problema}
+
+\subsection{Enunciado del problema de Investigación}
+
+\subsection{Preguntas de Investigación}
+    \subsubsection{Pregunta General}
+    \subsubsection{Preguntas Específicas}
+
+\subsection{Objetivos}
+    \subsubsection{Objetivo General}
+    \subsubsection{Objetivos Específicos}
+
+\subsection{Justificación}
+
+\subsection{Validación del Título}
 
 \end{document}

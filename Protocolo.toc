@@ -1,0 +1,15 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Planteamiento General del Problema de Investigación }{2}{}%
+\contentsline {subsection}{\numberline {1.2}Definición del Problema General de Investigación}{2}{}%
+\contentsline {subsection}{\numberline {1.3}Identificación y delimitación de un problema}{2}{}%
+\contentsline {subsection}{\numberline {1.4}Enunciado del problema de Investigación}{2}{}%
+\contentsline {subsection}{\numberline {1.5}Preguntas de Investigación}{2}{}%
+\contentsline {subsubsection}{\numberline {1.5.1}Pregunta General}{2}{}%
+\contentsline {subsubsection}{\numberline {1.5.2}Preguntas Específicas}{2}{}%
+\contentsline {subsection}{\numberline {1.6}Objetivos}{2}{}%
+\contentsline {subsubsection}{\numberline {1.6.1}Objetivo General}{2}{}%
+\contentsline {subsubsection}{\numberline {1.6.2}Objetivos Específicos}{2}{}%
+\contentsline {subsection}{\numberline {1.7}Justificación}{2}{}%
+\contentsline {subsection}{\numberline {1.8}Validación del Título}{2}{}%
