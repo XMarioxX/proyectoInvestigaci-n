@@ -1,15 +1,20 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Introducción}{2}{}%
-\contentsline {subsection}{\numberline {1.1}Planteamiento General del Problema de Investigación }{2}{}%
-\contentsline {subsection}{\numberline {1.2}Definición del Problema General de Investigación}{2}{}%
-\contentsline {subsection}{\numberline {1.3}Identificación y delimitación de un problema}{2}{}%
-\contentsline {subsection}{\numberline {1.4}Enunciado del problema de Investigación}{2}{}%
-\contentsline {subsection}{\numberline {1.5}Preguntas de Investigación}{3}{}%
-\contentsline {subsubsection}{\numberline {1.5.1}Pregunta General}{3}{}%
-\contentsline {subsubsection}{\numberline {1.5.2}Preguntas Específicas}{3}{}%
-\contentsline {subsection}{\numberline {1.6}Objetivos}{3}{}%
-\contentsline {subsubsection}{\numberline {1.6.1}Objetivo General}{3}{}%
-\contentsline {subsubsection}{\numberline {1.6.2}Objetivos Específicos}{3}{}%
-\contentsline {subsection}{\numberline {1.7}Justificación}{3}{}%
-\contentsline {subsection}{\numberline {1.8}Validación del Título}{4}{}%
+\contentsline {subsection}{\numberline {1.1}Atencedentes}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Identificación y delimitación del problema específico de investigación}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Preguntas de Investigación}{3}{}%
+\contentsline {subsubsection}{\numberline {1.3.1}Pregunta General}{3}{}%
+\contentsline {subsubsection}{\numberline {1.3.2}Preguntas Específicas}{3}{}%
+\contentsline {subsection}{\numberline {1.4}Objetivos de la investigación}{4}{}%
+\contentsline {subsubsection}{\numberline {1.4.1}Objetivo General}{4}{}%
+\contentsline {subsubsection}{\numberline {1.4.2}Objetivos Específicos}{4}{}%
+\contentsline {subsection}{\numberline {1.5}Justificación}{4}{}%
+\contentsline {subsection}{\numberline {1.6}Validación del título}{4}{}%
+\contentsline {section}{\numberline {2}Bosquejo de Marco Teórico}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Revisión de Literatura}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Marco Metodológico}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Marco Conceptual}{5}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Variables del Estudio}{5}{}%
+\contentsline {subsection}{\numberline {2.4}Marco Histórico}{5}{}%
+\contentsline {subsection}{\numberline {2.5}Marco Legal}{5}{}%
