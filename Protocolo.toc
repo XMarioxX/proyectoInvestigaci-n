@@ -27,3 +27,8 @@
 \contentsline {subsubsection}{\numberline {2.4.2}Brecha digital y acceso a la tecnología:}{8}{}%
 \contentsline {subsubsection}{\numberline {2.4.3}Ética del uso de la tecnología en la educación:}{8}{}%
 \contentsline {subsubsection}{\numberline {2.4.4}Rol del docente en el aprendizaje mediado por tecnología:}{8}{}%
+\contentsline {subsection}{\numberline {2.5}Cronograma}{9}{}%
+\contentsline {subsection}{\numberline {2.6}Presupuesto}{9}{}%
+\contentsline {subsubsection}{\numberline {2.6.1}Recursos materiales}{9}{}%
+\contentsline {subsubsection}{\numberline {2.6.2}Servicios}{10}{}%
+\contentsline {subsubsection}{\numberline {2.6.3}Otros gastos}{10}{}%
