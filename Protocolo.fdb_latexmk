@@ -1,7 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1713158164.42911 "d:/Taller de Investigación/GihuPI/proyectoInvestigacion/Protocolo.tex" "Protocolo.pdf" "Protocolo" 1713158164.95693 0
+["pdflatex"] 1713799939.65681 "d:/Taller de Investigación/GihuPI/proyectoInvestigacion/Protocolo.tex" "Protocolo.pdf" "Protocolo" 1713799940.2656 0
   "C:/Users/mayit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1713153977 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/mayit/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1708567428 11548 d1fbb998b92e25136401f7726f036712 ""
   "C:/Users/mayit/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1708142108 24210787 0b5d9f8e5dab29e316e17cc7f5ac3eed ""
+  "C:/Users/mayit/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/mayit/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/mayit/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/mayit/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
@@ -34,10 +36,10 @@
   "C:/Users/mayit/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1665067579 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "C:/Users/mayit/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "C:/Users/mayit/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
-  "Protocolo.aux" 1713158164 2386 76372cb15817eec21ab37afea762e6d9 "pdflatex"
-  "Protocolo.tex" 1713158162 13172 b0ae41618667faab8564057cdf245e44 ""
-  "Protocolo.toc" 1713158164 1412 17e587b977b50ba0a5d925df403492fc "pdflatex"
-  "d:/Taller de Investigación/GihuPI/proyectoInvestigacion/Protocolo.tex" 1713158162 13172 b0ae41618667faab8564057cdf245e44 ""
+  "Protocolo.aux" 1713799940 4153 900c855507537cd4830cebb0a7fb5a6b "pdflatex"
+  "Protocolo.tex" 1713799938 24981 07c1e36a8678819efdbd30f33ca5114c ""
+  "Protocolo.toc" 1713799940 2567 0649c2ea43bf26e1a734c46bf5dfff33 "pdflatex"
+  "d:/Taller de Investigación/GihuPI/proyectoInvestigacion/Protocolo.tex" 1713799938 24981 07c1e36a8678819efdbd30f33ca5114c ""
   (generated)
   "Protocolo.aux"
   "Protocolo.log"

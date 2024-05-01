@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  14 APR 2024 23:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.16)  22 APR 2024 09:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -193,7 +193,32 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {C:/Users/mayit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2
 
-] [3] [4] [5] (Protocolo.aux
+] [3] [4] [5] [6] [7] [8]
+Underfull \hbox (badness 2452) in paragraph at lines 236--237
+[]\OT1/cmr/m/n/10 C^^Salcu-lo di-fe-ren-cial. (s/f). Khan Aca-demy. Re-cu-pe-ra-do el 22 de abril de 2024, de
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 238--239
+\OT1/cmr/m/n/10 ta-lu~na. UAB-Di-vul-ga Bar-ce-lo-na In-ves-ti-ga-ci^^Son e In-no-va-ci^^Son. Re-cu-pe-ra-do el 22 de abril
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 239--240
+[]\OT1/cmr/m/n/10 Mastorodimos, D., Chatzi-chris-to-fis, S. A. (2019). Stud-ying af-fec-ti-ve tu-to-ring sys-tems
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 239--240
+\OT1/cmr/m/n/10 for mathe-ma-ti-cal con-cepts. Jour-nal of Edu-ca-tio-nal Tech-no-logy Sys-tems, 48(1), 14{50.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+[]\OT1/cmr/m/n/10 No title. (s/f). Eric.ed.gov. Re-cu-pe-ra-do el 22 de abril de 2024, de
+ []
+
+[9] (Protocolo.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 LaTeX Info: Redefining \. on input line 9.
@@ -205,17 +230,17 @@ L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3416 strings out of 474542
- 57429 string characters out of 5744446
+ 3427 strings out of 474542
+ 57544 string characters out of 5744446
  1934978 words of memory out of 5000000
- 25646 multiletter control sequences out of 15000+600000
- 559933 words of font info for 42 fonts, out of 8000000 for 9000
+ 25656 multiletter control sequences out of 15000+600000
+ 560268 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,5n,65p,1451b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/mayit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/mayit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/mayit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mayit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Protocolo.pdf (5 pages, 87951 bytes).
+ <C:\Users\mayit\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/mayit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/mayit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/mayit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mayit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Protocolo.pdf (9 pages, 105709 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
+ 57 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
