@@ -1,34 +1,50 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\contentsline {section}{\numberline {1}Introducción}{2}{}%
-\contentsline {subsection}{\numberline {1.1}Atencedentes}{2}{}%
-\contentsline {subsection}{\numberline {1.2}Identificación y delimitación del problema específico de investigación}{3}{}%
-\contentsline {subsection}{\numberline {1.3}Preguntas de Investigación}{3}{}%
-\contentsline {subsubsection}{\numberline {1.3.1}Pregunta General}{3}{}%
-\contentsline {subsubsection}{\numberline {1.3.2}Preguntas Específicas}{3}{}%
-\contentsline {subsection}{\numberline {1.4}Objetivos de la investigación}{4}{}%
-\contentsline {subsubsection}{\numberline {1.4.1}Objetivo General}{4}{}%
-\contentsline {subsubsection}{\numberline {1.4.2}Objetivos Específicos}{4}{}%
-\contentsline {subsection}{\numberline {1.5}Justificación}{4}{}%
-\contentsline {subsection}{\numberline {1.6}Validación del título}{4}{}%
-\contentsline {section}{\numberline {2}Bosquejo de Marco Teórico}{5}{}%
-\contentsline {subsection}{\numberline {2.1}Conceptos Fundamentales}{5}{}%
-\contentsline {subsubsection}{\numberline {2.1.1}Aprendizaje del Cálculo Diferencial}{5}{}%
-\contentsline {subsubsection}{\numberline {2.1.2}Tecnología educativa}{5}{}%
-\contentsline {subsubsection}{\numberline {2.1.3}Rol de la tecnología en el aprendizaje del Cálculo Diferencial}{6}{}%
-\contentsline {subsection}{\numberline {2.2}Teorías Fundamentales}{6}{}%
-\contentsline {subsubsection}{\numberline {2.2.1}Teorías del aprendizaje:}{6}{}%
-\contentsline {subsubsection}{\numberline {2.2.2} Teorías de la enseñanza mediada por tecnología:}{7}{}%
-\contentsline {subsection}{\numberline {2.3}Estudios Fundamentales}{7}{}%
-\contentsline {subsubsection}{\numberline {2.3.1}Investigaciones sobre el uso de la tecnología en el aprendizaje del Cálculo Diferencial:}{7}{}%
-\contentsline {subsubsection}{\numberline {2.3.2}Investigaciones sobre las actitudes y percepciones de los estudiantes hacia la tecnología en el aprendizaje del Cálculo Diferencial:}{7}{}%
-\contentsline {subsection}{\numberline {2.4}Principales Debates y Controversias}{8}{}%
-\contentsline {subsubsection}{\numberline {2.4.1}Impacto de la tecnología en el desarrollo de habilidades matemáticas:}{8}{}%
-\contentsline {subsubsection}{\numberline {2.4.2}Brecha digital y acceso a la tecnología:}{8}{}%
-\contentsline {subsubsection}{\numberline {2.4.3}Ética del uso de la tecnología en la educación:}{8}{}%
-\contentsline {subsubsection}{\numberline {2.4.4}Rol del docente en el aprendizaje mediado por tecnología:}{8}{}%
-\contentsline {subsection}{\numberline {2.5}Cronograma}{9}{}%
-\contentsline {subsection}{\numberline {2.6}Presupuesto}{9}{}%
-\contentsline {subsubsection}{\numberline {2.6.1}Recursos materiales}{9}{}%
-\contentsline {subsubsection}{\numberline {2.6.2}Servicios}{10}{}%
-\contentsline {subsubsection}{\numberline {2.6.3}Otros gastos}{10}{}%
+\contentsline {section}{\numberline {1}Introducción}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Atencedentes}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Identificación y delimitación del problema específico de investigación}{4}{}%
+\contentsline {subsection}{\numberline {1.3}Preguntas de Investigación}{4}{}%
+\contentsline {subsubsection}{\numberline {1.3.1}Pregunta General}{4}{}%
+\contentsline {subsubsection}{\numberline {1.3.2}Preguntas Específicas}{4}{}%
+\contentsline {subsection}{\numberline {1.4}Objetivos de la investigación}{5}{}%
+\contentsline {subsubsection}{\numberline {1.4.1}Objetivo General}{5}{}%
+\contentsline {subsubsection}{\numberline {1.4.2}Objetivos Específicos}{5}{}%
+\contentsline {subsection}{\numberline {1.5}Justificación}{5}{}%
+\contentsline {subsection}{\numberline {1.6}Validación del título}{5}{}%
+\contentsline {section}{\numberline {2}Bosquejo de Marco Teórico}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Conceptos Fundamentales}{6}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Aprendizaje del Cálculo Diferencial}{6}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Tecnología educativa}{6}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Rol de la tecnología en el aprendizaje del Cálculo Diferencial}{7}{}%
+\contentsline {subsection}{\numberline {2.2}Teorías Fundamentales}{7}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Teorías del aprendizaje:}{7}{}%
+\contentsline {subsubsection}{\numberline {2.2.2} Teorías de la enseñanza mediada por tecnología:}{8}{}%
+\contentsline {subsection}{\numberline {2.3}Estudios Fundamentales}{8}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Investigaciones sobre el uso de la tecnología en el aprendizaje del Cálculo Diferencial:}{8}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Investigaciones sobre las actitudes y percepciones de los estudiantes hacia la tecnología en el aprendizaje del Cálculo Diferencial:}{8}{}%
+\contentsline {subsection}{\numberline {2.4}Principales Debates y Controversias}{9}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}Impacto de la tecnología en el desarrollo de habilidades matemáticas:}{9}{}%
+\contentsline {subsubsection}{\numberline {2.4.2}Brecha digital y acceso a la tecnología:}{9}{}%
+\contentsline {subsubsection}{\numberline {2.4.3}Ética del uso de la tecnología en la educación:}{9}{}%
+\contentsline {subsubsection}{\numberline {2.4.4}Rol del docente en el aprendizaje mediado por tecnología:}{9}{}%
+\contentsline {section}{\numberline {3}Hipótesis}{10}{}%
+\contentsline {section}{\numberline {4}Bosquejo de Método}{10}{}%
+\contentsline {subsection}{\numberline {4.1}Determinación de la Muestra}{10}{}%
+\contentsline {subsection}{\numberline {4.2}Determinar el tipo de Investigación}{10}{}%
+\contentsline {subsection}{\numberline {4.3}Selección, diseño y Prueba del Instrumento de Recolección de Datos}{11}{}%
+\contentsline {subsection}{\numberline {4.4}Plan del Procesamiento y Análisis de la Información}{11}{}%
+\contentsline {section}{\numberline {5}Cronograma}{12}{}%
+\contentsline {section}{\numberline {6}Presupuesto y/o Financiamiento}{12}{}%
+\contentsline {subsubsection}{\numberline {6.0.1}Recursos materiales}{12}{}%
+\contentsline {subsubsection}{\numberline {6.0.2}Servicios}{13}{}%
+\contentsline {subsubsection}{\numberline {6.0.3}Otros gastos}{13}{}%
+\contentsline {section}{\numberline {7}Productos Entregables}{13}{}%
+\contentsline {subsection}{\numberline {7.1}Informe de investigación:}{13}{}%
+\contentsline {subsection}{\numberline {7.2}Artefacto tecnológico:}{13}{}%
+\contentsline {subsection}{\numberline {7.3}Presentación:}{13}{}%
+\contentsline {subsection}{\numberline {7.4}Artículos científicos:}{13}{}%
+\contentsline {subsection}{\numberline {7.5}Código fuente:}{14}{}%
+\contentsline {subsection}{\numberline {7.6}Datos de investigación:}{14}{}%
+\contentsline {subsection}{\numberline {7.7}Materiales de capacitación:}{14}{}%
+\contentsline {section}{\numberline {8}Vinculaciones estratégicas y lugar(es) de desarrollo del proyecto}{14}{}%
+\contentsline {section}{\numberline {9}Estrategias de Difusión}{15}{}%
