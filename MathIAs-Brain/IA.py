@@ -3,7 +3,7 @@ from sympy import *
 import random
 
 client = OpenAI(
-    api_key="sk-proj-ocnwoBekmwVjap177e9KT3BlbkFJXHuFaVf9lBxJo5bhHpHZ"
+    api_key=""
 )   
 
 while True:
