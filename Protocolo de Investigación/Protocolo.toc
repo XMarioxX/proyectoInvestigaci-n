@@ -35,14 +35,14 @@
 \contentsline {subsection}{\numberline {4.4}Plan del Procesamiento y Análisis de la Información}{11}{}%
 \contentsline {section}{\numberline {5}Cronograma}{12}{}%
 \contentsline {section}{\numberline {6}Presupuesto y/o Financiamiento}{12}{}%
-\contentsline {subsubsection}{\numberline {6.0.1}Recursos materiales}{12}{}%
+\contentsline {subsubsection}{\numberline {6.0.1}Recursos materiales}{13}{}%
 \contentsline {subsubsection}{\numberline {6.0.2}Servicios}{13}{}%
 \contentsline {subsubsection}{\numberline {6.0.3}Otros gastos}{13}{}%
 \contentsline {section}{\numberline {7}Productos Entregables}{13}{}%
 \contentsline {subsection}{\numberline {7.1}Informe de investigación:}{13}{}%
 \contentsline {subsection}{\numberline {7.2}Artefacto tecnológico:}{13}{}%
-\contentsline {subsection}{\numberline {7.3}Presentación:}{13}{}%
-\contentsline {subsection}{\numberline {7.4}Artículos científicos:}{13}{}%
+\contentsline {subsection}{\numberline {7.3}Presentación:}{14}{}%
+\contentsline {subsection}{\numberline {7.4}Artículos científicos:}{14}{}%
 \contentsline {subsection}{\numberline {7.5}Código fuente:}{14}{}%
 \contentsline {subsection}{\numberline {7.6}Datos de investigación:}{14}{}%
 \contentsline {subsection}{\numberline {7.7}Materiales de capacitación:}{14}{}%
