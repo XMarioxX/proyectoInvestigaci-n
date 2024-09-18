@@ -53,8 +53,13 @@ matemática en la I.E.S. Libertador “Simón Bolívar”: https://repositorio.u
 34-51 Mario
 
 35.- Una revisión sistemática del uso de la inteligencia artificial en la educación https://www.redalyc.org/journal/3555/355577357005/html/
+
 36.- La Inteligencia Artificial como recurso educativo durante la formación inicial del profesorado https://www.redalyc.org/journal/3314/331470794017/html/
+
 37.- Aplicaciones de la inteligencia artificial en educación: un panorama para docentes y estudianteshttps://www.comie.org.mx/congreso/memoriaelectronica/v16/doc/2050.pdf
+
 38.- INTELIGENCIA ARTIFICIAL EN LA EDUCACIÓN  https://redtis.org/index.php/Redtis/article/view/136
+
 39.- La aplicación de la inteligencia artificial para mejorar la enseñanza y el aprendizaje en el ámbito educativo https://rei.esprint.tech/index.php/esprint-investigacion/article/view/52
+
 40.- Aplicaciones de inteligencia artificial (IA) en la educación https://www.researchgate.net/publication/378030897_Aplicaciones_de_inteligencia_artificial_IA_en_la_educacion
